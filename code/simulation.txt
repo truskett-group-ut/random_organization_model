@@ -1,0 +1,12 @@
+steps_equil=0
+hours_equil=-1.0
+steps_prod=0
+hours_prod=72.0
+skip_steps=5000000
+skip_steps_traj=500000000
+skip_steps_check=500000000
+dr_max=0.08
+eta_begin=0.20
+eta_end=0.20
+eta_inc=0.05
+seed=0
