@@ -1,3 +1,4 @@
 trajectories/
 *.pyc
 .ipynb_checkpoints/
+*.swp
